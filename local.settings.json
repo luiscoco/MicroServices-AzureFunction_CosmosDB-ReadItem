@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "CosmosDbEndpointUri": "https://mycosmosdbluis1974.documents.azure.com:443/",
+    "CosmosDbPrimaryKey": "162QAjIFJ2Nb6GHDf3Af1sACZKEJP9LVVzFDcb3ijknQkVV37Jf7FoRfaX11yuUN94zVBkGdzRfzACDbkMeAPw=="
+  }
+}
